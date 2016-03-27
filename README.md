@@ -1,6 +1,6 @@
 # MVC Project
 
-This repository is part of an assignment DV1486 Databased Web Applications with PHP and MVC framework, at Blekinge Tekniska Högskola, Sweden, spring term 2016. [Assignment specification](http://dbwebb.se/phpmvc/kmom10). [Detailed report](http://www.student.bth.se/~alkw15/dbwebb-kurser/mvc/kmom05/Anax-MVC/webroot/index.php/redovisning).
+This repository is part of an assignment DV1486 Databased Web Applications with PHP and MVC framework, at Blekinge Tekniska Högskola, Sweden, spring term 2016. [Assignment specification](http://dbwebb.se/phpmvc/kmom10). [Detailed report](http://www.student.bth.se/~alkw15/dbwebb-kurser/mvc/kmom05/Anax-MVC/webroot/index.php/redovisning). 
 
 As per requirement 1-3, now follows an installation description.
 
