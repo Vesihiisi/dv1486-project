@@ -16,7 +16,7 @@ https://github.com/Vesihiisi/dv1486-project.git
 
 ```
 composer install
-``
+```
 
 3. The project uses an sqlite database. The database configuration file is app/config/database_sqlite.php. There you will find the path to the database file. You will also have to create the database file according to the path in that file.
 
