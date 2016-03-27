@@ -8,7 +8,7 @@ As per requirement 1-3, now follows an installation description.
 
 1. Download the contents of this repository into a directory on an Apache server.
 
-```https://github.com/Vesihiisi/dv1486-project.git```
+```https://github.com/Vesihiisi/dv1486-project.git````
 
 2. The project has a number of external dependencies that are needed for it to function. Those are listed in the composer.json file and also in composer.lock which contains the exact version of the dependencies used. These files are in the main directory and will be used to download the dependencies with composer. Composer will check the composer.lock file and if it exists it will install those specific versions.
 
