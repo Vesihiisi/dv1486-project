@@ -8,11 +8,15 @@ As per requirement 1-3, now follows an installation description.
 
 1. Download the contents of this repository into a directory on an Apache server.
 
-````https://github.com/Vesihiisi/dv1486-project.git````
+```
+https://github.com/Vesihiisi/dv1486-project.git
+```
 
 2. The project has a number of external dependencies that are needed for it to function. Those are listed in the composer.json file and also in composer.lock which contains the exact version of the dependencies used. These files are in the main directory and will be used to download the dependencies with composer. Composer will check the composer.lock file and if it exists it will install those specific versions.
 
-```composer install```
+```
+composer install
+``
 
 3. The project uses an sqlite database. The database configuration file is app/config/database_sqlite.php. There you will find the path to the database file. You will also have to create the database file according to the path in that file.
 
