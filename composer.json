@@ -1,0 +1,26 @@
+{
+    "name": "anax/mvc",
+    "type": "library",
+    "description": "Webtemplate to create websites",
+    "keywords": ["boilerplate", "framework", "mvc", "micro", "education"],
+    "homepage": "http://dbwebb.se",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mikael Roos",
+            "email": "me@mikaelroos.se",
+            "homepage": "http://mikaelroos.se",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "mos/ctextfilter": "dev-master",
+        "mos/cform": "2.x-dev",
+        "mos/cdatabase": "dev-master",
+	"geshi/geshi" : "dev-master"
+    },
+    "autoload": {
+        "psr-4": { "Anax\\": "src/" }
+    }
+}

@@ -1,0 +1,1 @@
+<h<?=$number?>><?=$content?></h<?=$number?>>
